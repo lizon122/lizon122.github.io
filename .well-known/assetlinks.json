@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.lizon122.twa",
+        "sha256_cert_fingerprints": ["0A:29:5D:51:57:F3:7F:CA:98:40:1A:8A:BB:7E:7C:43:8C:FB:A2:50:EC:7E:0A:6B:8B:6F:60:F6:BD:66:EC:59"]
+      }
+    }]
